@@ -1,5 +1,6 @@
 :bangbang: Những phần code quan trọng đã bị mất trong máy tính cũ
 
+<img width="649" height="910" alt="image" src="https://github.com/user-attachments/assets/22d25f08-1eb8-4589-8a02-f0c55b863ac6" />
 
 ### Research results
 https://github.com/user-attachments/assets/0acbe8e5-27cd-4544-8ecd-db77a4d0f766
