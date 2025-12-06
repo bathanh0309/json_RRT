@@ -16,3 +16,4 @@ https://github.com/user-attachments/assets/fd2ad832-704b-4afa-b705-331a26b53cc7
 <img width="656" height="916" alt="image" src="https://github.com/user-attachments/assets/0b764deb-25e7-4405-93de-d40084973da8" />
 
 
+![NVIDIA](https://github.com/user-attachments/assets/bbed0e18-b7aa-4b52-acd0-ddc5c25dad33)
