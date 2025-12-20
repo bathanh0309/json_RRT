@@ -1,3 +1,4 @@
+<img width="656" height="916" alt="image" src="https://github.com/user-attachments/assets/0b764deb-25e7-4405-93de-d40084973da8" />
 
 ### Research results
 https://github.com/user-attachments/assets/0acbe8e5-27cd-4544-8ecd-db77a4d0f766
