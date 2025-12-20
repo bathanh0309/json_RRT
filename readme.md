@@ -1,4 +1,3 @@
-:bangbang: Những phần code quan trọng đã bị mất trong máy tính cũ
 
 ### Research results
 https://github.com/user-attachments/assets/0acbe8e5-27cd-4544-8ecd-db77a4d0f766
